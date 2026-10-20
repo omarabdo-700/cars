@@ -1,0 +1,13 @@
+img {
+  width: 400px
+}
+body{text-align: center;
+background-color: rgb(102, 4, 4);
+color: azure;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.rounded-img {
+  width: 300px;
+
+  object-fit: cover;
+  border-radius: 20px; /* Increase for rounder corners, or set to 50% for a circle */
+}
